@@ -1,0 +1,6 @@
+@Agenda_Manager_HostAddress = http://localhost:5111
+
+GET {{Agenda_Manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
